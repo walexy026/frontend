@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;background-color: blue; border: 4px dashed;
+}
+body {
+    background-color: black; 
+}
+th {
+    width: 100px; border: 20px crimson; height: 20px;background-color: darkcyan;
+}
+tr {
+    font-family: Arial, Helvetica, sans-serif;
+}
+td {
+    background-color: chocolate; width: 100px; text-align: center;text-decoration: cornsilk;
+    font-style: italic;
+}
+tr td {
+    font-size: larger; font-stretch: semi-expanded;
+    list-style: upper-roman;
+    padding: 30px;
+    border-top: cyan;
+} 
+thread {
+    font-size: 50%;font-weight: bolder;
+}
+.bz {
+    background-color: aquamarine;
+    color:green;
+    border: darkgray;
+}

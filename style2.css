@@ -1,0 +1,18 @@
+#t-style{
+    background-color: blue;
+    border:5px solid #000;
+    width: 600px;
+    font-family: Poppins;  
+}
+#t-style thread{
+    color:rgb(55, 0, 128);
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#t-style td{
+    border: 2px solid;
+}
+#t-style tr td{
+    padding: 40px;
+    border: 2px solid;
+}

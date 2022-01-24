@@ -1,0 +1,20 @@
+body {
+    background-color: blue;width: fit-content;width: 5000px;
+}
+<div style="overflow-x:auto;">
+th {
+    background-color: #4CAF50;
+    color: white;
+  }
+td th {
+    padding: 5000px;align-items: center;
+}
+td {
+    background-color: burlywood;text-align: center;border-top: black;
+}
+tr {
+    color: chocolate;margin-top: 50px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th  {
+    background-color: lavender;color: lawngreen;
+}
