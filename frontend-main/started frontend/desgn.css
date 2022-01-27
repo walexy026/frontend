@@ -1,0 +1,63 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2vh 4.5vw;
+    background-color: whitesmoke;
+    color: dimgray;
+    width: 90%;
+    
+}
+ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    width: 500px;
+    background-color: rgb(245, 245, 240);
+    
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+.content {
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 70px;
+    height: 50px;
+    text-size-adjust: 100px;
+}
+.main-content {
+    display: flex;
+    width: 100%
+}
+img {
+    margin-top: 30px 70px;
+    height: 450px;
+    margin-left: 240px;
+    background-image: url(../images/circle\ blue.png);
+    background-repeat: no-repeat;
+}
+.btn {
+    border-radius: 50px;
+    background-color: rgb(138, 28, 28);
+    color: rgb(228, 205, 255);
+}
+button {
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+    border: cornsilk;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4 {
+    font-size: small;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
