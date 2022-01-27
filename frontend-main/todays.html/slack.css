@@ -12,15 +12,12 @@
     height: 70px;
 }
 .sch {
-    background-image: url( Img\ \(1\).png );
     align-self: center;
     justify-content: center;
     text-align: center;
     height: 500px;
     color: seashell;
     padding-top: 180px;
-    opacity: 2.0;
-    background-repeat: no-repeat;
 }
 body {
     margin: 0pt;
@@ -40,10 +37,14 @@ hi {
     text-align: center;
     height: 32px;
     font-weight: 500;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 48px;
     line-height: 32px;
     font-style: normal;
     width: 261px;
 
 }
+.swiper {
+    width: 100%;
+    height: 300px;
+  }
