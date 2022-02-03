@@ -41,9 +41,6 @@
     margin-top: 10px;
 
 }
-.main3 img {
-    opacity: 0.5;
-}
 .contacts p{
     margin-top: 5px;
     margin-bottom: 5px;
@@ -55,10 +52,9 @@
 
 }
 .swiper {
-    width: 100%;
+    width: 90%;
     height: 500px;
   }
-
 .text {
       text-align: center;
       margin-top: 150px;
@@ -132,63 +128,13 @@
   .sec7 {
       margin-left: 50px;
   }
-  .sec8 img{
-       margin-top: -100px;
-       margin-left: 250px;
-       width: 500px;
-    
+  .sec8 {
+       margin-top: -220px;
+       margin-left: 80px;
   }
   .sec71 {
       color: aliceblue;
   }
   .sec72 {
       display: flex;
-  }
-  .text1 {
-      position: absolute;
-      z-index: 1;
-      top: 20px;
-      color: #FDFFF5;
-      font-family: 'Poppins', sans-serif;
-      margin-left: 360px;
-      margin-top: 150px;
-  }
-  .btn:hover {
-      background-color: brown;
-      color: cornsilk;
-      width: 100px;
-      cursor: pointer;
-  }
-  .sec10 {
-      margin-left: 100px;
-  }
-  .sec11 {
-      display: flex;
-      margin-left: 100px;
-      justify-content: space-evenly;
-  }
-
-  #btn2 {
-      border-radius: 30px;
-      color: #d85012;
-      background-color: #f0f8ff;
-      border-color: #d85012;
-      border-width: 3px;
-  }
-  .sec12 h3 p h5{
-      justify-content: center;
-  }
-
-  .section4 {
-      background-color: white;
-  }
-  .sec145 {
-      margin-left: 100px;
-      color: #7B3F00;
-  }
-  .sec15 {
-      display: flex;
-      justify-content: space-around;
-      margin-left: 100px;
-      margin-right: 100px;
   }
