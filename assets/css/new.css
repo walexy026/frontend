@@ -196,3 +196,25 @@
         background-image: url(/assets/images/background.png);
         
   }
+  .sec21 {
+      margin-left: 200px;
+  }
+  .sec22 {
+      display: flex;
+  }
+  .sec22 li {
+      list-style: none;
+      width: 200px;
+      margin-top: 20px;
+  }
+  footer {
+      display: flex;
+      background-color: burlywood;
+  }
+
+footer img {
+    display: grid;
+    margin-left: 700px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
