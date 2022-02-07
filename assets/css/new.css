@@ -150,14 +150,23 @@
       top: 20px;
       color: #FDFFF5;
       font-family: 'Poppins', sans-serif;
-      margin-left: 360px;
+      margin-left: 500px;
       margin-top: 150px;
+    
+  }
+  .text1 h1 {
+      font-weight: 500px;
+  }
+  .text1 h6{
+      padding-right: 240px;
   }
   .btn:hover {
-      background-color: brown;
-      color: cornsilk;
-      width: 100px;
       cursor: pointer;
+      color: #f0f8ff;
+      background-color: #7B3F00;
+      border-color: #f0f8ff;
+      border-width: 3px;
+      padding: 10px;
   }
   .sec10 {
       margin-left: 100px;
@@ -169,11 +178,11 @@
   }
 
   #btn2 {
-      border-radius: 30px;
-      color: #d85012;
-      background-color: #f0f8ff;
-      border-color: #d85012;
+      color: #f0f8ff;
+      background-color: #7B3F00;
+      border-color: #f0f8ff;
       border-width: 3px;
+      padding: 10px;
   }
   .sec12 h3 p h5{
       justify-content: center;
@@ -193,23 +202,68 @@
       margin-right: 100px;
   }
   .section6 {
-        background-image: url(/assets/images/background.png);
+        background-image: url(/assets/images/lasection.png);
+        color:#f0f8ff;
+        font-family: Poppins;
         
+  }  
+  .sec16 {
+      margin-left: 100px;
+  }
+  .sec17 {
+    background-color: #FFFFFF;
+    color: black;
+    margin-bottom: 70px;
+    margin-left: 50px;
+    padding-bottom: 50px;
+  }
+  .sec18 {
+        background-color: #FFFFFF;
+        color: black;      
+        margin-bottom: 60px;
+        padding: 50px 50px 50px 50px;
+
+  }
+  .sec19 {
+    background-color: #FFFFFF;
+    color: black;
+    margin-bottom: 70px;
+    padding: 50px 50px 50px 50px;
+    
+
+  }
+  .sec20 {
+      display: flex;
+      justify-content: space-between;
+      box-sizing: border-box;
+      
   }
   .sec21 {
-      margin-left: 200px;
+      text-align: center;
+  }
+  .sec212 {
+      display: flex;
+      justify-content: center;
+  }
+  .sec212 button{
+      background-color: #7B3F00;
+      border-color: #f0f8ff;
+      
   }
   .sec22 {
       display: flex;
+      
   }
   .sec22 li {
       list-style: none;
-      width: 200px;
+      width: 150px;
       margin-top: 20px;
+      line-height: 2vh;
+      align-self: center;
   }
   footer {
       display: flex;
-      background-color: burlywood;
+      background-color: #B0916E;
   }
 
 footer img {
@@ -217,4 +271,8 @@ footer img {
     margin-left: 700px;
     margin-top: 20px;
     margin-bottom: 20px;
+    padding-right: 50px;
+}
+footer h4{
+    padding-left: 50px;
 }
